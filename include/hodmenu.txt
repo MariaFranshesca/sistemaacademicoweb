@@ -1,0 +1,82 @@
+<nav>
+<ul>
+<li><a href="#">Cuenta</a>
+	<ul>
+		<li><a href="changeID.php">Cambiar ID</a></li>
+		
+	
+		<li><a href="changePWD.php">Cambia la contraseña</a></li>
+		
+		
+		
+		<li><a href="logout/logout.php">Cerrar sesión
+</a></li>
+		
+	</ul>
+
+
+
+</li>
+
+<li><a href="#">Informe</a>
+	<ul>
+		<li><a href="#">Asistencia
+</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Curso</a>
+	<ul>
+		<li><a href="subject_register.php">Registro</a></li>
+		<li><a href="editSubject.php">Editar</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Estudiante</a>
+	<ul>
+		<li><a href="student_register.php">Registro</a></li>
+		<li><a href="student_view.php">Ver</a></li>
+		<li><a href="#">Promover</a></li>
+		<li><a href="#">Detener</a></li>
+		<li><a href="#">Desconocer</a></li>
+		
+	</ul>
+</li>
+<li><a href="#">Facultad</a>
+	<ul>
+		<li><a href="fac_register.php">Registro</a></li>
+			<li><a href="fac_view.php">Ver</a></li>
+		<li><a href="#">Asignación de asignatura</a></li>  
+		<li><a href="#">Asignación de cambio</a></li>
+		<li><a href="#">Detalle de clase</a></li>
+		<li><a href="#">Detalle del asunto</a></li>
+		<li><a href="#">Restablecer la contraseña</a></li>
+							
+	
+	</ul>
+</li>
+
+<li><a href="#">Asistencia</a>
+	<ul>
+		<li><a href="add_attendance.php">Agregar asistencia</a></li>
+		<li><a href="#">Editar asistencia</a></li>
+		<li><a href="#">Ver</a>
+			<ul><li>
+			<a href="#">Ver Asistencia Diaria</a></li>
+		<li><a href="#">Ver asistencia mensual</a>
+		</li></ul></li>
+		
+	</ul>
+</li>
+<li><a href="#">Tabla de tiempo</a>
+	<ul>
+		<li><a href="#">Registro</a></li>
+		<li><a href="#">Modificar</a></li>
+		<li><a href="#">Ver</a></li>				
+	
+	</ul>
+</li>
+<li><a href="index.php">Inicio</a></li>
+</ul>
+
+</nav>
